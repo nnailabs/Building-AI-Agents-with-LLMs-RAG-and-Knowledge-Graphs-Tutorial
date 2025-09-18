@@ -1,0 +1,3 @@
+Python 3.12.3
+HDH: Ubuntu 24.04.3
+RAM: 16G
